@@ -6,6 +6,23 @@
 
 ---
 
+## ⚡ Building now: [CriogenAI](https://github.com/VARMAMASTER/criogenai)
+
+<a href="https://github.com/VARMAMASTER/criogenai"><img src="https://raw.githubusercontent.com/VARMAMASTER/criogenai/main/.github/assets/criogenai-banner.png" alt="CriogenAI: the fast AI agent framework on a Rust engine" width="600"></a>
+
+An **open-source AI agent framework on a Rust engine**, used from Python, TypeScript or Rust.
+Human approval, runs that survive crashes, memory and an audit trail are built in, with
+**0.29 ms** of framework overhead per agent turn ([benchmarks](https://criogenai.com/benchmarks/)).
+
+```sh
+pip install criogenai
+npm install criogenai
+```
+
+[🌐 Website](https://criogenai.com) · [📘 Docs](https://criogenai.com/docs/quickstart/) · [🎮 Playground](https://criogenai.com/playground/) · [⭐ Star it on GitHub](https://github.com/VARMAMASTER/criogenai)
+
+---
+
 ## 🌐 **Official Portfolio**
 ### 🔗 [Visit My Portfolio Website](https://saikiranvarma.vercel.app/)
 
@@ -18,6 +35,7 @@
 Lead AI Engineer with hands-on experience in architecting and deploying large-scale GenAI platforms—powering EdTech, full-stack automation, and next-gen LLM agent systems. Patent holder (rehabilitation glove), R&D at IIT Delhi and BIS, passionate about scalable solutions and mentoring engineers.
 
 - 🔭 **Current:** Lead AI Engineer, CampX (Hyderabad, India)
+- ⚡ **Building:** [CriogenAI](https://criogenai.com), an open-source AI agent framework on a Rust engine
 - 💡 Alumnus: IIIT Jabalpur (B.Tech, Smart Manufacturing, 8.4 CPI)
 - 🏆 Patent: Tensioner-Based Motor Driven Rehabilitation Glove
 - 👨‍💻 Prev: Dev Team Lead, Janaspandana; R&D Intern, IIT Delhi & BIS
